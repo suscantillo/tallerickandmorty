@@ -1,6 +1,5 @@
 # Taller Rick and Morty
 
-Backend en Express que consume la API pública de Rick and Morty. El enunciado completo está en [documento.md](documento.md).
 
 ## Requisitos
 
@@ -54,4 +53,3 @@ Las rutas y la estructura ya funcionan. Las funciones marcadas con `TODO` en `se
 4. Antes del merge, otro integrante debe revisar el PR y dejar un comentario o aprobación (ver plantilla en `.github/pull_request_template.md`).
 5. Hagan commits desde su propia cuenta para que el historial muestre la participación de todos.
 
-Para el contexto que deben usar los asistentes de IA de cada integrante, ver [AGENTS.md](AGENTS.md).
